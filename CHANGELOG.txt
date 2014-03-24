@@ -21,7 +21,7 @@ BY T3HPHAZONDRAGON
 
 CURRENT VERSION
 
-1.6.3
+1.6.4
 
 #########################################
 
@@ -36,6 +36,9 @@ Refer to the  CHANGELOG. Not all versions are listed; this is intentional. Curre
 #########################################
 
 CHANGELOG
+
+1.6.4
+* Slight bow edits
 
 1.6.3
 * Updated pack to 1.8, adding missing textures
