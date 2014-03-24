@@ -39,6 +39,8 @@ CHANGELOG
 
 1.6.4
 * Slight bow edits
+* Emerald texture changed, more star-like
+* Smoothed out emerald block texture
 
 1.6.3
 * Updated pack to 1.8, adding missing textures
