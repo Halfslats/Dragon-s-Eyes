@@ -21,7 +21,7 @@ BY T3HPHAZONDRAGON
 
 CURRENT VERSION
 
-1.6.4
+1.6.5
 
 #########################################
 
@@ -37,10 +37,14 @@ Refer to the  CHANGELOG. Not all versions are listed; this is intentional. Curre
 
 CHANGELOG
 
+1.6.5
+* Removed emerald texture
+
 1.6.4
 * Slight bow edits
 * Emerald texture changed, more star-like
 * Smoothed out emerald block texture
+* Added sounds from SnowSong
 
 1.6.3
 * Updated pack to 1.8, adding missing textures

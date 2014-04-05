@@ -38,7 +38,7 @@ I. TABLE OF CONTENTS
 
 1. CURRENT VERSION [CURR]
 
-1.6.4
+1.6.5
 
 #########################################
 
@@ -93,6 +93,7 @@ These customizations are typically extras that I've made and decided to later ch
 * PandaBattalion for the inspiration from his own resource pack
 * Septimus2000 for being my silly not-beta-tester
 * Subtle Patterns for the options background (http://subtlepatterns.com/triangular/)
+* sn0w for the amazing sounds! (http://www.minecraftforum.net/topic/1900512-snowsong-the-epic-sound-pack-sound-resource-pack-for-all-versions-of-minecraft/)
 * You! For taking the time to read this, and use my pack! Thanks! :)
 
 #########################################
