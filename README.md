@@ -20,7 +20,7 @@ BY T3HPHAZONDRAGON
 
 INFORMALLY KNOWN AS "PHAZ'S PVP PACK"
 
-CHANGELOG CAN BE FOUND IN [CHANGELOG.TXT](../CHANGELOG.txt)
+CHANGELOG CAN BE FOUND IN [CHANGELOG.TXT](/CHANGELOG.txt)
 
 ***
 
@@ -102,13 +102,13 @@ These customizations are typically extras that I've made and decided to later ch
 
 Various methods of contact include email, Tumblr, Reddit, oc.tc, Skype, YouTube, and Wynncraft, in the following order:
 
-t3hphazondragon@gmail[dot]com
-http://halfslats.tumblr.com
-http://reddit.com/u/t3hphazondragon
-http://oc.tc./t3hphazondragon
-t3hphazondragon
-http://youtube.com/t3hphazondragon
-http://forums.wynncraft.com/members/t3hphazondragon.5076/
+* t3hphazondragon@gmail[dot]com
+* http://halfslats.tumblr.com
+* http://reddit.com/u/t3hphazondragon
+* http://oc.tc./t3hphazondragon
+* t3hphazondragon
+* http://youtube.com/t3hphazondragon
+* http://forums.wynncraft.com/members/t3hphazondragon.5076/
 
 ***
 
