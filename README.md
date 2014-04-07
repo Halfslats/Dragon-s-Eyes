@@ -26,7 +26,7 @@ CHANGELOG CAN BE FOUND IN [CHANGELOG.TXT](/CHANGELOG.txt)
 
 ###TABLE OF CONTENTS
 
-1. [Current Version](#current-version)
+1. Current Version
 2. Features
 3. Customizations
 4. Special Thanks
