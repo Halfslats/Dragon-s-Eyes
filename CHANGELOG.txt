@@ -40,6 +40,8 @@ CHANGELOG
 1.6.5
 * Removed emerald texture
 * Pickaxe texture changes
+* Recolored portal blocks
+* Recolored water
 
 1.6.4
 * Slight bow edits
