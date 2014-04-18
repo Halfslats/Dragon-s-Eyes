@@ -42,6 +42,7 @@ CHANGELOG
 * Pickaxe texture changes
 * Recolored portal blocks
 * Recolored water
+* Particle edits
 
 1.6.4
 * Slight bow edits
