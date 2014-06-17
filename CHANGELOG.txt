@@ -21,7 +21,7 @@ BY T3HPHAZONDRAGON
 
 CURRENT VERSION
 
-1.6.5
+1.6.6
 
 #########################################
 
@@ -36,6 +36,17 @@ Refer to the  CHANGELOG. Not all versions are listed; this is intentional. Curre
 #########################################
 
 CHANGELOG
+
+1.6.6
+* Rainbow breaking animation
+* Silly ninja gear armor in customizations
+* Wooden/Stone swords -> Katana textures
+* Melon hunger squares
+* ChOCOLATE CAKE
+* Empty armor spaces
+* GUI edits
+* Custom axes (kept animated diamond and gold)
+* Custom paintings
 
 1.6.5
 * Removed emerald texture

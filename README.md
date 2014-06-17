@@ -38,7 +38,7 @@ CHANGELOG CAN BE FOUND IN [CHANGELOG.TXT](/CHANGELOG.txt)
 
 ###CURRENT VERSION
 
-	1.6.5
+	1.6.6
 
 ***
 
@@ -121,6 +121,7 @@ Various methods of contact include email, Tumblr, Reddit, oc.tc, Skype, YouTube,
 * Better water texture
 * Heart/armor status textures
 * More customized text and colors
+* Custom Axes
 
 ***
 
