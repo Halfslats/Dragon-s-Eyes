@@ -94,6 +94,8 @@ These customizations are typically extras that I've made and decided to later ch
 * Septimus2000 for being my silly not-beta-tester
 * Subtle Patterns for the options background (http://subtlepatterns.com/triangular/)
 * sn0w for the amazing sounds! (http://www.minecraftforum.net/topic/1900512-snowsong-the-epic-sound-pack-sound-resource-pack-for-all-versions-of-minecraft/)
+* sn0w for the amazing sounds! (http://www.minecraftforum.net/topic/1900512-snowsong-the-epic-sound-pack-sound-resource-pack-for-all-versions-of-minecraft/)
+* /u/Pig_Rider for the custom paintings (http://www.reddit.com/r/Minecraft/comments/1doyi4/i_customized_all_the_paintings/)
 * You! For taking the time to read this, and use my pack! Thanks! :)
 
 ***
@@ -121,7 +123,7 @@ Various methods of contact include email, Tumblr, Reddit, oc.tc, Skype, YouTube,
 * Better water texture
 * Heart/armor status textures
 * More customized text and colors
-* Custom Axes
+* Animated glowing pumpkins
 
 ***
 
