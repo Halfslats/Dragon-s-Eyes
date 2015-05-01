@@ -1,27 +1,26 @@
-
-#########################################
-                                                                                  
-.--. .--.     .     .--. .--. .   .. .-. 
-|   :|   )   / \   :    :    :|\  ||(   )
-|   ||--'   /___\  | --.|    || \ |  `-. 
-|   ;|  \  /     \ :   |:    ;|  \| (   )
-'--' '   `'       ` `--' `--' '   '  `-' 
-          .---..   ..---. .-.            
-          |     \ / |    (   )           
-          |---   :  |---  `-.            
-          |      |  |    (   )           
-          '---'  '  '---' `-'            
+#########################################                                      
+            _   _    _    _     _____ ______  _        _  _____ ____      
+           | | | |  / \  | |   |  ___/ / ___|| |      / \|_   _/ ___|     
+           | |_| | / _ \ | |   | |_ / /\___ \| |     / _ \ | | \___ \     
+           |  _  |/ ___ \| |___|  _/ /  ___) | |___ / ___ \| |  ___) |    
+  _________|_| |_/_/   \_\_____|_|/_/  |____/|_____/_/   \_\_| |____/____ 
+ |__________| __      ____ __     _____ ____ ___ ___  _   _      __|_____|
+             | _|    / / / \ \   / /_ _/ ___|_ _/ _ \| \ | |    / / / |_ |
+             | |    / / /   \ \ / / | |\___ \| | | | |  \| |   / / /   | |
+             | |   / / /     \ V /  | | ___) | | |_| | |\  |  / / /    | |
+             | |  /_/_/       \_/  |___|____/___\___/|_| \_| /_/_/     | |
+             |__|                                                     |__|
                                          
 #########################################
 
-DRAGON'S EYES, A MINECRAFT RESOURCE PACK
-BY T3HPHAZONDRAGON
+_HALF/SLATS_ VISION, A MINECRAFT RESOURCE PACK
+BY HALFSLATS / T3HPHAZONDRAGON
 
 #########################################
 
 CURRENT VERSION
 
-1.6.6
+1.8.0
 
 #########################################
 
@@ -31,18 +30,54 @@ Old versions of the original pack can be found in this folder:
 
 http://www.mediafire.com/folder/hek1q61zgz8zz/Dragon's_Eyes
 
-Refer to the  CHANGELOG. Not all versions are listed; this is intentional. Currently hosted versions are ones that were publicly released.
+Refer to the CHANGELOG. Not all versions are listed; this is intentional. Currently hosted versions are ones that were publicly released.
 
 #########################################
 
 CHANGELOG
+
+1.8.0
+* Changed name from DRAGON'S EYES to _HALF/SLATS_ VISION
+* Changed menu textures
+* Changed hot bar selection texture
+* Added 'blockstates' and 'models' folders
+* Block model for sugar cane
+* Alternate textures for ladders
+* Replaced glass textures with Plast's
+* Fixed Emerald Block texture
+* Custom Sky
+* Changed Birch Sapling leaf color to pink to match colormap
+* Slightly shortened double tall plants
+* Changed click.ogg sound
+* Outline around obsidian block to make it easier to see breaking animation
+* Golden-colored final wheat stage
+* Redder jungle wood
+* Redstone dust tweaks
+* GUI edits
+* Mob Spawner texture changes
+* Fixed crosshair texture
+* Tweaked Resource Pack Arrow buttons
+* Square Top Left banner is now the Stark Direwolf
+* Slight particle edits
+
+1.7.1
+* Changed options background texture
+* Fixed breaking animation
+* Cauldron texture
+* Armor status changed from gold -> diamond
+* Simple EXP/jump bars
+
+1.7.0
+* Update to 1.8
+* Bed texture edited (item, not block)
+* Changed workbench texture
 
 1.6.6
 * Rainbow breaking animation
 * Silly ninja gear armor in customizations
 * Wooden/Stone swords -> Katana textures
 * Melon hunger squares
-* ChOCOLATE CAKE
+* ChOcOlAtE cAkE
 * Empty armor spaces
 * GUI edits
 * Custom axes (kept animated diamond and gold)
@@ -62,7 +97,7 @@ CHANGELOG
 * Added sounds from SnowSong
 
 1.6.3
-* Updated pack to 1.8, adding missing textures
+* Updated pack to 1.7, adding missing textures
 * Diamond katana to diamond sword
 * Glass bottle edits
 
